@@ -26,5 +26,6 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-## ScreenShort
+## ScreenShot 
 ![Alt text](design/active-states.jpg)
+<img src="design/active-states.jpg" alt="Alt text" width="500" height="300">

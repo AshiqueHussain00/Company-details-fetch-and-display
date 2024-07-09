@@ -12,7 +12,7 @@ Your users should be able to:
 
 ## Filtering
 
-Use the [data.json](./data.json) file to pull the data and then dynamically add the content. This would be perfect if you're looking to practice a JS library/framework like React, Vue, or Svelte.
+We use the [data.json](./data.json) file to pull the data and then dynamically add the content. This would be perfect if you're looking to practice a JS library/framework like React, Vue, or Svelte.
 
 To add a filter, the user needs to click on the tablets on the right side of the listing on desktop or the bottom on mobile. For each filter added, only listings containing all selected filters should be returned.
 
@@ -25,3 +25,4 @@ The designs are in JPG static format. Using JPGs will mean that you'll need to u
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+![Alt text](design/active-states.jpg)

@@ -1,4 +1,4 @@
-# The tsk done in this project
+# The task done in this project
 
 Users should be able to:
 
